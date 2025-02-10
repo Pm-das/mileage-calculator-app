@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mileage Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <button class="reset-button" onclick="resetForm()">Reset</button>
+
+  <div class="container">
+    <h2>Mileage Calculator</h2>
+
+    <input type="number" id="fuelCost" placeholder="Fuel Cost (Rupees)">
+    <input type="number" id="fuelAmount" placeholder="Fuel Amount (Rupees)">
+    <input type="number" id="mileage" placeholder="Mileage (Km per liter)">
+    <input type="number" id="distance" placeholder="Distance (Km)">
+
+    <button class="calculate-button" onclick="calculate()">Calculate</button>
+
+    <div class="output-box">
+      <p id="outputMileage"></p>
+      <p id="outputDistance"></p>
+    </div>
+  </div>
+
+  <p class="watermark">Developed by PM DAS</p>
+
+  <script src="script.js"></script>
+</body>
+</html>
