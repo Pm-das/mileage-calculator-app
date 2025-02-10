@@ -1,2 +1,19 @@
-# mileage-calculator-app
- Mileage Calculator is a simple and interactive web application that helps users calculate the mileage of their vehicle or determine how far they can travel based on fuel input. Designed with a sleek yellow-to-black gradient theme, this tool is user-friendly and mobile-responsive.
+# 🚗 Mileage Calculator  
+A simple web-based Mileage Calculator to calculate mileage and distance based on fuel cost and amount.  
+
+## 🌟 Features  
+✔ Calculates Mileage (Km per Liter)  
+✔ Calculates Distance that can be traveled  
+✔ Reset button to clear fields  
+✔ Fully responsive & mobile-friendly  
+✔ Stylish yellow-to-black gradient design  
+✔ Developed by **PM DAS**  
+
+## 📜 How to Use  
+1. Enter **Fuel Cost (₹ per liter)**  
+2. Enter **Fuel Amount (₹ spent on fuel)**  
+3. Enter either **Mileage (km/l)** or **Distance (km)**  
+4. Click **"Calculate"** to get results  
+5. Click **"Reset"** to clear all fields  
+
+## 📂 File Structure  
