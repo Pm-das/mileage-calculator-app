@@ -19,7 +19,7 @@ A simple web-based Mileage Calculator to calculate mileage and distance based on
 ## 📂 File Structure  
 
 ## 🚀 Live Demo  
-[Check it out here](https://Pm-das.github.io/mileage-calculator/) *(Replace with your actual GitHub Pages link)*  
+[Check it out here](https://Pm-das.github.io/mileage-calculator/)
 
 ## 🛠 Tech Used  
 - **HTML**  
