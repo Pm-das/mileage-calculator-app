@@ -17,3 +17,14 @@ A simple web-based Mileage Calculator to calculate mileage and distance based on
 5. Click **"Reset"** to clear all fields  
 
 ## 📂 File Structure  
+
+## 🚀 Live Demo  
+[Check it out here](https://Pm-das.github.io/mileage-calculator/) *(Replace with your actual GitHub Pages link)*  
+
+## 🛠 Tech Used  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+## 📌 Developed By  
+**PM DAS**  
